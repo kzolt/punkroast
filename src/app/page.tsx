@@ -10,6 +10,7 @@ export default function Home() {
                 width={100}
                 height={100}
                 className="top-5 left-5 absolute"
+                priority
             />
             <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16">
                 <h1 className="text-5xl font-extrabold tracking-tight sm:text-[5rem]">
